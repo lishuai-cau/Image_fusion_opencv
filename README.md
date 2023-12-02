@@ -12,7 +12,7 @@ Dependencies:
 
 We recommend that you test in the Clion editor with the above opencv version installed. Some test results are as follows：
 
-![1](https://github.com/lishuai-cau/Image_fusion_opencv/blob/master/result.jpg.jpg)
+![1](https://github.com/lishuai-cau/Image_fusion_opencv/blob/master/result.jpg)
 
 ## Contact us
 
